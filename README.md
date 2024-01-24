@@ -1,6 +1,6 @@
 # 8-week-SQL-Challenge
 I'm currently doing SQL challenge by Danny.
-# 8 Week SQL Challenge
+
 Case study questions and answers/solutions for [#8WeekSQLChallenge](https://8weeksqlchallenge.com/ "8 Week SQL Challenge") by [Danny Ma](https://www.datawithdanny.com/ "Data With Danny")
 
 This repository contains all of my SQL submissions for the [#8WeekSQLChallenge](https://8weeksqlchallenge.com/ "8 Week SQL Challenge") created by [Danny Ma](https://www.datawithdanny.com/ "Data With Danny").
